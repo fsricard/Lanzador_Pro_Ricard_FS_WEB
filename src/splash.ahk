@@ -10,7 +10,7 @@ Gui, Splash:Color, 202020
 Gui, Splash:Add, Picture, x0 y0 Center, %splashImg%
 
 ; Barra de carga
-Gui, Splash:Add, Progress, x150 y350 w600 h15 fb4b0f Background303030 vBar, 0
+Gui, Splash:Add, Progress, x150 y350 w600 h15 cfb4b0f Background303030 vBar, 0
 
 ; Mostrar splash
 Gui, Splash:Show, w900 h500 Center
